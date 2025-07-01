@@ -1,0 +1,22 @@
+/* ===== Reset básico ===== */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* ===== Transições suaves ===== */
+body, .card, input.form-control, .input-group-text {
+  transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
+}
+
+/* ===== Botão alternar tema ===== */
+#toggle-theme {
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
+/* ===== Card ===== */
+.bg-dark-alternative {
+  background-color: #1A1D20;
+}
