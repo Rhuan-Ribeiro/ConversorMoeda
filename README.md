@@ -2,6 +2,8 @@
 
 Projeto simples desenvolvido como exemplo prático. O objetivo é apresentar a aplicação básica de **HTML**, **CSS**, **Bootstrap** e **JavaScript** (incluindo `fetch`) em uma página web moderna e responsiva.
 
+[🔗 Acesse o projeto online](https://rhuan-ribeiro.github.io/ConversorMoeda/)
+
 ---
 
 ## 💡 Objetivo
